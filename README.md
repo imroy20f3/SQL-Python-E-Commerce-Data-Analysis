@@ -1,1 +1,2 @@
 # SQL-Python-E-Commerce-Data-Analysis
+This project analyzes e-commerce data using SQL and Python to uncover sales trends and customer insights. It uses SQL queries with joins, aggregations, and window functions, along with Python (Pandas, NumPy, matplotlib, Seaborn) for data handling and analysis. The project demonstrates an end-to-end data analysis workflow focused on turning raw data into meaningful business insights.
